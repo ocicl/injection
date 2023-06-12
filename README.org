@@ -1,0 +1,10 @@
+* injection
+
+Dependency Injection for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ahungry/injection.git   |
+| commit  | 9cf6225  |
+| systems | injection |
+|---------+-------------------------------------------|
+
